@@ -1,10 +1,11 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=17&background=2AFF8000&vCenter=true&width=500&lines=I'm+not+a+king%2CI'm+not+a+God+%2C+I'm...ambitious+)](https://git.io/typing-svg) :bowtie: :confounded:
+<br>
 ![](https://komarev.com/ghpvc/?username=ibrahim-jridi&color=blue&style=plastic)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahim-jridi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahim-jridi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibrahim-jridi&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-jridi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ibrahim-jridi&theme=onedark&row=2&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ibrahim-jridi&theme=onedark&row=2&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
