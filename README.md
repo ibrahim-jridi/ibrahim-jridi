@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahim-jridi&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahim-jridi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahim-jridi" alt="ibrahim-jridi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahim-jridi&theme=onedark&row=2&column=6&margin-w=15&margin-h=15" alt="ibrahim-jridi" /></a> </p>
 
 - 🔭 I’m currently working on [training management platforme](https://github.com/ibrahim-jridi/training-management-platforme-angular.git)
 
@@ -26,11 +26,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=17&background=2AFF8000&vCenter=true&width=500&lines=I'm+not+a+king%2CI'm+not+a+God+%2C+I'm...ambitious+)](https://git.io/typing-svg) :bowtie: :confounded:
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahim-jridi&show_icons=true&locale=en&layout=compact" alt="ibrahim-jridi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahim-jridi&show_icons=true&locale=en&layout=compact&theme=radical" alt="ibrahim-jridi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahim-jridi&show_icons=true&locale=en" alt="ibrahim-jridi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahim-jridi&show_icons=true&locale=en&theme=radical" alt="ibrahim-jridi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim-jridi&" alt="ibrahim-jridi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim-jridi&theme=radical" alt="ibrahim-jridi" /></p>
 
 <!--
 **ibrahim-jridi/ibrahim-jridi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
